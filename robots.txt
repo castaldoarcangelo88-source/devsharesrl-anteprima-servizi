@@ -1,0 +1,3 @@
+# ANTEPRIMA: non indicizzare. Il sito vero e' https://www.devsharesrl.it/
+User-agent: *
+Disallow: /
